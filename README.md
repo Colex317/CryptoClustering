@@ -11,7 +11,7 @@
 
 
 
-The CryptoClustering assignment focused on using K-means and Principal Component Analysis (PCA) in unsupervised machine learning. Python and unsupervised learning were used to predict whether cryptocurrencies are affected by 24-hour or 7-day price changes. This README provides an overview of the assignment structure, objectives, and steps involved in the process.
+The CryptoClustering assignment focused on using K-means and Principal Component Analysis (PCA) in unsupervised machine learning. Python and unsupervised learning were used to predict whether cryptocurrencies are affected by 24-hour or 7-day price changes. This README provides an overview of the assignment structure and steps involved in the process.
 
 # Files Included
   - [Resources](https://github.com/Colex317/CryptoClustering/tree/main/Resources)
