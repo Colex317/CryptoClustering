@@ -54,12 +54,19 @@ The CryptoClustering assignment focused on using K-means and Principal Component
 
 <img width="792" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/514a2a7b-d041-4437-95fd-c8896dc8b900">
 
+7.**Visualize and Compare the Results**
+- In this section, we visually analyze the cluster analysis results by contrasting the outcome with and without using the optimization techniques.
+
+<img width="796" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/21045788-4f5c-40ab-94cd-c3dd57023dd2">
+
+<img width="1012" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/6c9d9914-5b8c-447f-86bf-f8513b447a9f">
+
 
 
 # Conclusion
 After completing the clustering with K-Means and techniques like PCA, we find that dimensionality reduction techniques can enhance the clustering process by reducing the complexity of the data while preserving its essential characteristics, ultimately leading to more interpretable and insightful results.
 
 
-# References
+## References
 HoloViz (2023). Composing Plots. Retrieved from https://holoviz.org/tutorial/Composing_Plots.html
 Geekforgeeks (2022). Reduce Data Dimensionality using PCA – Python. Retrieved from https://www.geeksforgeeks.org/reduce-data-dimentionality-using-pca-python/
