@@ -70,7 +70,7 @@ The CryptoClustering assignment focused on using K-means and Principal Component
 
 
 # Conclusion
-After completing the clustering with K-Means and techniques like PCA, we find that dimensionality reduction techniques can enhance the clustering process by reducing the complexity of the data while preserving its essential characteristics, ultimately leading to more interpretable and insightful results.
+After completing the clustering with K-Means and a technique like Principal Component Analysis, we find that dimensionality reduction techniques like PCA can enhance the clustering process by reducing the complexity of the data while preserving its essential characteristics, ultimately leading to more interpretable and insightful results.
 
 
 ## References
