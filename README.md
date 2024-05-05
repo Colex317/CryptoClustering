@@ -13,7 +13,7 @@ The CryptoClustering assignment focused on using K-means and Principal Component
 - `StandardScalar` and `scikit-learn` were used to normalize the data from the CVS file.
 - A dataframe was then created with the scaled data, and the index was set `coin_id` from the original dataframe as the index of the new dataframe.
 
-<img width="1595" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/f46926fd-503e-4997-9497-307a3adca005">
+<img width="2595" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/f46926fd-503e-4997-9497-307a3adca005">
 
 
 **Find the Best Value for k Using the Original Scaled DataFrame**
