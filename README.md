@@ -1,6 +1,9 @@
 # CryptoClustering
 ## Machine Learning: K-means and Principal Component Analysis (PCA)
+
 <img width="650" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/e1c166fb-89fe-4432-ac72-762d7fb0a4de">
+
+
 
 
 The CryptoClustering assignment focused on using K-means and Principal Component Analysis (PCA) in unsupervised machine learning. Python and unsupervised learning are used to predict whether cryptocurrencies are affected by 24-hour or 7-day price changes.
