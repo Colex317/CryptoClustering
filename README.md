@@ -43,7 +43,7 @@ The CryptoClustering assignment focused on using K-means and Principal Component
 4. **Optimize Clusters with Principal Component Analysis**
 - The original scaled dataframe was used to perform a PCA and reduce the features to three principal components. The total explained variance of the three principal components is approximately 90%.
 
-<img width="580" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/e21b8ad5-e981-496b-af35-16e2be901d9d">
+<img width="480" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/e21b8ad5-e981-496b-af35-16e2be901d9d">
 
 
 
@@ -59,7 +59,8 @@ The CryptoClustering assignment focused on using K-means and Principal Component
 
 <img width="792" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/514a2a7b-d041-4437-95fd-c8896dc8b900">
 
-7.**Visualize and Compare the Results**
+
+7. **Visualize and Compare the Results**
 - In this section, we visually analyze the cluster analysis results by contrasting the outcome with and without using the optimization techniques.
 
 <img width="796" alt="image" src="https://github.com/Colex317/CryptoClustering/assets/148498483/21045788-4f5c-40ab-94cd-c3dd57023dd2">
